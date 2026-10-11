@@ -8,8 +8,8 @@ license = "MIT"
 readme = "README.md"
 keywords = ["pantheon", "terminus", "tui", "ratatui", "cli"]
 categories = ["command-line-utilities"]
-repository = "https://github.com/zer0-sh/sunim-tui"
-homepage = "https://github.com/zer0-sh/sunim-tui"
+repository = "https://github.com/zer0sh/sunim-tui"
+homepage = "https://github.com/zer0sh/sunim-tui"
 
 [[bin]]
 name = "sunim"
